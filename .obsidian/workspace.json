@@ -1,0 +1,314 @@
+{
+  "main": {
+    "id": "c825ff609dcfb17e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f89520843130e95a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c0787edcc198e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP IP Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP IP Model"
+            }
+          },
+          {
+            "id": "5b93b6f2af8ee7f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI Layers/Physical Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physical Layer"
+            }
+          },
+          {
+            "id": "5574985fc9008379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI Layers/Physical Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physical Layer"
+            }
+          },
+          {
+            "id": "cb71406ee04c8df7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI Layers/Data Link Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Link Layer"
+            }
+          },
+          {
+            "id": "c2974b964f80b907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI Layers/Data Link Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Link Layer"
+            }
+          },
+          {
+            "id": "fb840a5e7d4f224a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/pcm.png"
+              },
+              "icon": "lucide-image",
+              "title": "pcm"
+            }
+          },
+          {
+            "id": "f532d78c831f500a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/pcm.png"
+              },
+              "icon": "lucide-image",
+              "title": "pcm"
+            }
+          },
+          {
+            "id": "9c9418c5115993a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encoding Techniques/Digital Data to Digital Signals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital Data to Digital Signals"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08b0076244708356",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f4fb793e36b7b6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3575bc6acbeb871b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6c1cbfa76bc40b70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "CSMA/CA",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9877ffb8fee7f315",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "713229f95a1486e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "274c8efd652fa567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e45ddfe8ca9d6c58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OSI Reference Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OSI Reference Model"
+            }
+          },
+          {
+            "id": "f7ffb650376078f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OSI Reference Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from OSI Reference Model"
+            }
+          },
+          {
+            "id": "b10aab3b0ff4eec9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3db3103bb4b17aa5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OSI Reference Model.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of OSI Reference Model"
+            }
+          },
+          {
+            "id": "550053b26d27df64",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3575bc6acbeb871b",
+  "lastOpenFiles": [
+    "README.md",
+    "Protocols/Carrier Sense Multiple Access (CSMA).md",
+    "Protocols/Address Resolution Protocol (ARP).md",
+    "Data Communication Basics.md",
+    "OSI Layers/Data Link Layer.md",
+    "OSI Layers/Physical Layer.md",
+    "Data, Signals and Transmission.md",
+    "Network Basics.md",
+    "Network Topology.md",
+    "TCP IP Model.md",
+    "OSI Reference Model.md",
+    "images/ppersitent.png",
+    "images/1-persistent-csma.png",
+    "images/non-persistent-csma.png",
+    "images/Slotted-ALOHA.jpg",
+    "images/Pure-ALOHA.jpg",
+    "Encoding Techniques/Analog Data to Analog Signals.md",
+    "Encoding Techniques/Analog Data to Digital Signals.md",
+    "Encoding Techniques/Digital Data to Analog Signals.md",
+    "images/pcm.png",
+    "images/psk-wave.jpg",
+    "Encoding Techniques/Scrambling.md",
+    "Encoding Techniques/Digital Data to Digital Signals.md",
+    "Protocols",
+    "images/wan-topology.png",
+    "images/LAN_topology.gif",
+    "().md",
+    "images/optical-fiber.png",
+    "OSI Layers",
+    "Encoding Techniques",
+    "TCP/IP Model.md",
+    "TCP/IP Model 1.md",
+    "TCP",
+    "Circuit Switching.md",
+    "Excalidraw/simple-data-comn-model.md",
+    "Excalidraw/Drawing 2024-11-23 12.18.28.excalidraw.md",
+    "images",
+    "Excalidraw"
+  ]
+}
