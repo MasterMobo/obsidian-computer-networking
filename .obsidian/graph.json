@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431511
       }
+    },
+    {
+      "query": "tag:#network-devices  ",
+      "color": {
+        "a": 1,
+        "rgb": 8671968
+      }
     }
   ],
   "collapse-display": false,

@@ -104,6 +104,7 @@ Provides **connectionless** or **connection-oriented** services
 
 Concerned with ***addressing*** and ***routing***.
 
+See more: [[Network (Internet) Layer]]
 ### 2.4 Layer 4 - Transport Layer
 
 Handles ***end-to-end*** transmission
