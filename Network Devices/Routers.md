@@ -2,6 +2,14 @@
 tags:
   - network-devices
 ---
+# Table of Contents
+
+- [[#1. Definition|1. Definition]]
+- [[#2. Routing Table|2. Routing Table]]
+- [[#3. Hardware|3. Hardware]]
+- [[#4. How Routing Works|4. How Routing Works]]
+- [[#5. Switch vs Router|5. Switch vs Router]]
+
 ---
 ## 1. Definition
 
@@ -38,6 +46,7 @@ Logically speaking, routers consist of 2 ***planes***:
 - Data Plane - Line cards
 
 ![[router-hardware.png]]
+
 ---
 ## 4. How Routing Works
 
@@ -56,8 +65,21 @@ Based on certain protocol metrics, the CPM chooses the best routes from the RIB 
 
 ![[routing-2.png]]
 
-The routing information is transferred to the ***data plane*** (to every line card), and is stored in the **Forwarding Information Base (FIB**). 
+The routing information is transferred to the ***data plane*** (to every line card), and is stored in the **Forwarding Information Base (FIB**). The line cards uses the FIB to do routing.
 
 The FIB helps improve performance by skipping the need for CPM to repeatedly give the line cards the routing information.
 
 ![[routing-3.png]]
+
+## 5. Switch vs Router
+
+|                 | Switch                                               | Router                                                      |
+| :-------------: | ---------------------------------------------------- | ----------------------------------------------------------- |
+|   **Purpose**   | Connects ***devices*** within the ***same network*** | Connect ***different networks*** (LANs) together            |
+|    **Layer**    | Layer 2 - Data Link Layer                            | Layer 3 - Network Layer                                     |
+|   **Address**   | MAC addresses                                        | IP addresses                                                |
+|     **PDU**     | (Ethernet) Frames                                    | (IP) Packets                                                |
+|  **Broadcast**  | Broadcast to all devices in the network              | **No** broadcasting                                         |
+| **Performance** | Switch is generally faster                           | Router is generally slower because it uses more information |
+>[!note]
+>The term ***Layer 3 Switch*** (aka Multi-Layer Switch) refers to switches that can handle layer 3 traffic as well. This term is also sometime used to refer to routers

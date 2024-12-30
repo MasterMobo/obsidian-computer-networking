@@ -41,6 +41,8 @@ Handles routing for end systems in the ***same network***.
 
 Also referred to as **Data Link layer**
 
+See more: [[Data Link Layer]]
+
 ### 1.3 Layer 3 - Internet Layer
 
 Handles routing for end systems in the ***different network***.
@@ -50,6 +52,8 @@ Internet Protocol (IP) is used to provide routing across multiple networks.
 IP is implemented in end systems, as well as **routers**. Which, connects two networks by relaying data.
 
 Also referred to as **Network Layer**
+
+See more: [[Network (Internet) Layer]]
 
 ### 1.4 Layer 4 - Transport layer
 

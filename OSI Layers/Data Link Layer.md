@@ -88,4 +88,10 @@ Better utilization than Pure ALOHA, but still quite poor.
 
 #### Carrier Sense Multiple Access (CSMA)
 
-See more here: [[Carrier Sense Multiple Access (CSMA)]]
+CSMA is a type of protocol used to detect/avoid/resolve collisions in a shared medium. It aims to address certain weakness of simple protocols like ALOHA.
+
+See more : [[Carrier Sense Multiple Access (CSMA)]]
+
+---
+See next:
+- [[Network (Internet) Layer]]
