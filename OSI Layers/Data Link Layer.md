@@ -44,6 +44,9 @@ The ***first three pairs*** signifies the ***manufacturer*** of the device, know
 - **Data Field**: actual data sent by upper layers
 - **Stop Frame Field (Frame Trailer)** (optional): used when length length of frame is not specified in Type/Length Field
 
+>[!info]
+>To resolve an IP address to a MAC address, [[Address Resolution Protocol (ARP) |ARP]] is used.
+
 ---
 ## 3. Medium (Multiple) Access Control
 

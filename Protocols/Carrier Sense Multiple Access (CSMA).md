@@ -55,7 +55,7 @@ Time is divided into equal **slots**. Which typically equals twice the maximum p
 	- If medium busy, act as if collision occurred and backoff & start over
 
 >[!note]
->With probability $p$ basically means flip a coin. If heads ($p$) to one thing, if tails ($p-1$) do another thing.
+>With probability $p$ basically means flip a coin. If heads ($p$) then do one thing, if tails ($p-1$) do another thing.
 
 Overcomes collision of 1-persistent by not transmitting immediately.
 

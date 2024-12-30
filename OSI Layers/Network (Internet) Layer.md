@@ -34,12 +34,20 @@ The packet header contains summary information about the packet. Notable fields 
 IPv4 is an older version of the Internet Protocol. It uses **32-bit addresses** (which is limited) with **subnetting** to provide more address flexibility. Still used today in almost every network.
 
 See more: [[IPv4]]
-
 ## 4. IPv6
 
-IPv6 is the modern version of the Internet Protocol. Uses **128-bit addressing**, which is much better and eliminates limitations with IPv4.
+**128 bit** address. Modern version of IP
 
-See more: [[IPv6]]
+Supposed to replace IPv4, but is still used in parallel.
+
+Much larger address space, no need for subnetting.
+
+More optimized than IPv4, simpler routing.
+
+>[!info]
+>To migrate from IPv4 to IPv6, we use ***tunneling***. This works by encapsulating the IPv6 header within the IPv4 packet.
+>
+>![[ip-tunneling.png]]
 ## 5. Routers
 
 Routers are network devices used to route packets between different networks. They use IP addresses to achieve routing.
