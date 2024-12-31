@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSI Layers/Transport Layer.md",
+                "file": "OSI Layers/Network (Internet) Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transport Layer"
+              "title": "Network (Internet) Layer"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSI Layers/Transport Layer.md",
+                "file": "OSI Layers/Network (Internet) Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Transport Layer"
+              "title": "Backlinks for Network (Internet) Layer"
             }
           },
           {
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,18 +198,19 @@
   },
   "active": "a7985644a8a8e598",
   "lastOpenFiles": [
+    "OSI Layers/Physical Layer.md",
+    "OSI Reference Model.md",
+    "README.md",
+    "OSI Layers/Transport Layer.md",
     "Protocols/Address Resolution Protocol (ARP).md",
     "Protocols/IPv4.md",
     "OSI Layers/Network (Internet) Layer.md",
     "Protocols/Carrier Sense Multiple Access (CSMA).md",
     "Protocols/Transport Control Protocol (TCP).md",
     "Protocols/User Datagram Protocol (UDP).md",
-    "OSI Layers/Transport Layer.md",
     "Pasted image 20241231174253.png",
     "images/tcp-connect.png",
-    "OSI Layers/Physical Layer.md",
     "OSI Layers/Data Link Layer.md",
-    "OSI Reference Model.md",
     "Network Devices/Routers.md",
     "Network Basics.md",
     "Data Communication Basics.md",
@@ -229,7 +230,6 @@
     "images/psk-wave.jpg",
     "images/Pure-ALOHA.jpg",
     "images/quantization.jpg",
-    "README.md",
     "Protocols/IPv6.md",
     "Network Devices",
     "Protocols",
