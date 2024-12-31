@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/Carrier Sense Multiple Access (CSMA).md",
+                "file": "OSI Layers/Transport Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carrier Sense Multiple Access (CSMA)"
+              "title": "Transport Layer"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSI Layers/Data Link Layer.md",
+                "file": "OSI Layers/Transport Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Link Layer"
+              "title": "Backlinks for Transport Layer"
             }
           },
           {
@@ -126,12 +126,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/Carrier Sense Multiple Access (CSMA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Carrier Sense Multiple Access (CSMA)"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,11 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OSI Reference Model.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of OSI Reference Model"
+              "title": "Outline"
             }
           },
           {
@@ -184,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 637.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,40 +196,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0293f9cc025990cf",
+  "active": "a7985644a8a8e598",
   "lastOpenFiles": [
-    "OSI Layers/Physical Layer.md",
-    "OSI Layers/Network (Internet) Layer.md",
-    "OSI Layers/Transport Layer.md",
     "Protocols/Address Resolution Protocol (ARP).md",
-    "Protocols/Carrier Sense Multiple Access (CSMA).md",
     "Protocols/IPv4.md",
+    "OSI Layers/Network (Internet) Layer.md",
+    "Protocols/Carrier Sense Multiple Access (CSMA).md",
+    "Protocols/Transport Control Protocol (TCP).md",
+    "Protocols/User Datagram Protocol (UDP).md",
+    "OSI Layers/Transport Layer.md",
+    "Pasted image 20241231174253.png",
+    "images/tcp-connect.png",
+    "OSI Layers/Physical Layer.md",
     "OSI Layers/Data Link Layer.md",
-    "TCP IP Model.md",
     "OSI Reference Model.md",
-    "Data Communication Basics.md",
-    "Network Basics.md",
-    "README.md",
-    "Network Topology.md",
-    "Data, Signals and Transmission.md",
     "Network Devices/Routers.md",
-    "Protocols/IPv6.md",
+    "Network Basics.md",
+    "Data Communication Basics.md",
+    "images/virtual-circuit-switching.gif",
+    "Data, Signals and Transmission.md",
+    "TCP IP Model.md",
+    "Network Topology.md",
     "Encoding Techniques/Scrambling.md",
-    "Encoding Techniques/Analog Data to Analog Signals.md",
-    "images/ip-tunneling.png",
-    "Encoding Techniques/Analog Data to Digital Signals.md",
     "Encoding Techniques/Digital Data to Digital Signals.md",
-    "images/routing-3.png",
-    "images/routing-2.png",
-    "images/routing-1.png",
-    "images/router-hardware.png",
-    "Network Devices",
-    "images/ppersitent.png",
-    "images/1-persistent-csma.png",
-    "images/non-persistent-csma.png",
-    "images/Slotted-ALOHA.jpg",
-    "images/Pure-ALOHA.jpg",
     "Encoding Techniques/Digital Data to Analog Signals.md",
+    "Encoding Techniques/Analog Data to Analog Signals.md",
+    "Encoding Techniques/Analog Data to Digital Signals.md",
+    "images/wan-topology.png",
+    "images/nzr.jpg",
+    "images/am-modulation.webp",
+    "images/ami-pseudoternary.jpg",
+    "images/psk-wave.jpg",
+    "images/Pure-ALOHA.jpg",
+    "images/quantization.jpg",
+    "README.md",
+    "Protocols/IPv6.md",
+    "Network Devices",
     "Protocols",
     "().md",
     "OSI Layers",
@@ -240,8 +239,6 @@
     "TCP/IP Model.md",
     "TCP/IP Model 1.md",
     "TCP",
-    "Circuit Switching.md",
-    "Excalidraw/simple-data-comn-model.md",
     "images",
     "Excalidraw"
   ]
