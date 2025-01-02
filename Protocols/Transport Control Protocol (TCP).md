@@ -67,7 +67,7 @@ To end a connection, TCP does 2 round-way trips:
 3. Receiver send a FIN message
 4. Sender send an ACK message
 
-![[Pasted image 20241231174253.png|center]]
+![[tcp-disconnect.png|center]]
 
 ---
 See next:

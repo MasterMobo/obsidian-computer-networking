@@ -11,7 +11,7 @@ Split into two sublayers with two distinct responsibilities:
 
 ### Logic Link Control
 
-Responsible for flow control and logic control
+Responsible for [[Layer 2 Flow Control|flow control]] and [[Layer 2 Error Control|error control]]
 
 ### Medium Access Control
 
