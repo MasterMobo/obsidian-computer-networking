@@ -1,4 +1,7 @@
-
+---
+tags:
+  - protocol
+---
 Multiplexing is a method of transmitting **multiple messages** on the same channel.
 
 For multiple signals to be shared on one medium, the medium needs to be divided.
